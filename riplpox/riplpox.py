@@ -18,7 +18,7 @@ from pox.lib.packet.tcp import tcp
 
 from ripl.mn import topos
 
-from util import buildTopo, getRouting
+from riplpox.util import buildTopo, getRouting
 
 log = core.getLogger()
 
